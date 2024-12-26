@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class  SunilProductCatalogServiceApplication {
+public class Sunil_ProductCatalogServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SunilProductCatalogServiceApplication.class, args);
+
+		SpringApplication.run(Sunil_ProductCatalogServiceApplication.class, args);
 	}
 
 }
